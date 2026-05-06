@@ -110,13 +110,21 @@
 
 ---
 
+<!-- ========================= GITHUB STATS ========================= -->
+
 # 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tushar330&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api?username=tushar330&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar330&layout=compact&langs_count=8&theme=radical"/>
+<img 
+  height="180em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar330&layout=compact&theme=transparent&hide_border=true"
+/>
 
 </div>
 
@@ -124,20 +132,27 @@
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=tushar330&theme=radical&hide_border=true"/>
+<img 
+  src="https://streak-stats.demolab.com?user=tushar330&theme=transparent&hide_border=true"
+/>
 
 </div>
 
 ---
+
+<!-- ========================= LEETCODE STATS ========================= -->
 
 # 🏆 LeetCode Stats
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/tushartiwari338?theme=dark&font=Nunito&ext=heatmap" />
+<img 
+  src="https://leetcard.jacoblin.cool/tushartiwari338?theme=dark&font=Baloo&ext=contest"
+/>
 
 </div>
----
+
+----
 
 # 🚀 Featured Projects
 
