@@ -112,14 +112,14 @@
 # 📈 GitHub Analytics
 
 <p align="center">
-  <img
-    height="180em"
+  <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api?username=tushar330&show_icons=true&theme=tokyonight&hide_border=true"
+    width="48%"
   />
-
-  <img
-    height="180em"
+  
+  <img 
     src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=tushar330&layout=compact&theme=tokyonight&hide_border=true"
+    width="36%"
   />
 </p>
 
