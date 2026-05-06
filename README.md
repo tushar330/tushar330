@@ -114,9 +114,9 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tushar330&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tushar330&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=tushar330&theme=tokyonight&hide_border=true&border_radius=15" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar330&layout=compact&langs_count=8&theme=radical"/>
 
 </div>
 
@@ -124,7 +124,7 @@
 
 <div align="center">
 
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=tushar330&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=tushar330&theme=radical&hide_border=true"/>
 
 </div>
 
@@ -134,10 +134,9 @@
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/tushartiwari338?theme=dark&font=Fira%20Code&ext=contest" />
+<img src="https://leetcard.jacoblin.cool/tushartiwari338?theme=dark&font=Nunito&ext=heatmap" />
 
 </div>
-
 ---
 
 # 🚀 Featured Projects
