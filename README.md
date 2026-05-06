@@ -123,12 +123,6 @@
   />
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=tushar330&theme=tokyonight&hide_border=true"
-  />
-</p>
-
 ---
 
 # 🏆 LeetCode Stats
