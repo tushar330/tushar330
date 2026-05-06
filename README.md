@@ -111,46 +111,37 @@
 ---
 
 <!-- ========================= GITHUB STATS ========================= -->
+<!-- ========================= GITHUB STATS ========================= -->
 
 # 📈 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=tushar330&show_icons=true&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+  
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar330&layout=compact&theme=tokyonight&hide_border=true"
+    height="180"
+  />
+</p>
 
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=tushar330&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-/>
-
-<img 
-  height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tushar330&layout=compact&theme=transparent&hide_border=true"
-/>
-
-</div>
-
-<br/>
-
-<div align="center">
-
-<img 
-  src="https://streak-stats.demolab.com?user=tushar330&theme=transparent&hide_border=true"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=tushar330&theme=tokyonight&hide_border=true"
+  />
+</p>
 
 ---
 
-<!-- ========================= LEETCODE STATS ========================= -->
-
 # 🏆 LeetCode Stats
 
-<div align="center">
-
-<img 
-  src="https://leetcard.jacoblin.cool/tushartiwari338?theme=dark&font=Baloo&ext=contest"
-/>
-
-</div>
+<p align="center">
+  <img
+    src="https://leetcard.jacoblin.cool/tushartiwari338?theme=dark&font=Nunito&ext=heatmap"
+  />
+</p>
 
 ----
 
