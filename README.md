@@ -9,14 +9,14 @@
 </h3>
 
 <!-- Typing Animation -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
       src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF9F43&center=true&vCenter=true&width=850&lines=Full+Stack+Developer+🚀;System+Design+Enthusiast+⚡;MERN+Stack+Developer;DSA+%7C+Open+Source+%7C+Backend+Engineering;Building+Scalable+and+Impactful+Projects;Always+Learning+New+Technologies+✨" 
       alt="Typing SVG" 
     />
   </a>
-</p>
+</p> -->
 
 <!-- Social Links -->
 <div align="center">
